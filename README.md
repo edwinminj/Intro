@@ -1,4 +1,1 @@
-Hello Everyone, I'm Edwin Minj.
-Currently I'm Working as a System Engineer.
-I'm interested in Cloud Computing mainly focuses on Azure Cloud.
-I have a 1+ years of Experience as a System Engineer.
+Myself EDWIN MINJ working as a System Administrator with overall 2.8 years of experience in the field of Windows, Linux, Azure Cloud, SSH, Docker basics, Microsoft Suite and Google suite. Had an experience in installing, configuring and maintaining the Linux Machine and Windows Machine. Experience in managing the Azure cloud i.e. setting up Virtual machine with all the given requirements including CPU, RAM, OS, Storage and handing over the machine to the users. With having good knowledge in accessing the server with SSH, worked on M365 Admin centre & MS Suite. Worked on the different tools of G Suite.
